@@ -3,5 +3,4 @@
 
 url: "https://tellusant.github.io"   # no trailing slash
 baseurl: "/docs"                      # project path
-plugins:
-  - jekyll-sitemap
+
