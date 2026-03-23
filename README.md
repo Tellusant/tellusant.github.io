@@ -15,7 +15,7 @@ The repository is divided by topic:
 ## About Tellusant
 
 ## Repository Sections
-### [Company Information](./docs/information/index.md)
+### [Company Information](./docs/information/)
 
 Find the main descriptions of Tellusant and its products.
 
