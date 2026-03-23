@@ -12,9 +12,9 @@ For human readers, there is a basic search function.
 
 The repository is divided by topic:
 
-## About Tellusant
+## About Tellusant  
 
-## Repository Sections
+## Repository Sections  
 ### [Company Information](https://tellusant.github.io/docs/information/)
 
 Find the main descriptions of Tellusant and its products.
@@ -31,7 +31,7 @@ This page gives descriptions and links to our extensive library of Tellusant Qui
 ### [Scientific Papers et Plus](https://tellusant.github.io/docs/papers/)
 Here we share academic and business papers (journal articles, working papers, dissertation, and more) by our members.
 
-### [Preseentations](https://tellusant.github.io/docs/presentations/)
+### [Presentations](https://tellusant.github.io/docs/presentations/)
 Public speeches, lectures and other presentations in slide format by Tellusant members.
 
 ### [Periodicals](https://tellusant.github.io/docs/periodicals/)
@@ -46,15 +46,12 @@ Our videos cover our company and products, trade visits, travel experiences, and
 ### [Maps](https://tellusant.github.io/docs/maps/)
 We create an immense amount of maps on various topics. See some of them in glorious SVG.
 
-**Press Releases**
 ### [Press Releases](https://tellusant.github.io/docs/press-releases/)
 View our press releases covering important news from our company.
 
-**External Citations**
 ### [External Citations](https://tellusant.github.io/docs/citations/)
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.
 
-**Recommended Readings**
 ### [Recommended Readings](https://tellusant.github.io/docs/recommended-readings/)
 These are works we wish we had written, but did not.
 
