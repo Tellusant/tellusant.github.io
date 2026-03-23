@@ -15,7 +15,7 @@ The repository is divided by topic:
 ## About Tellusant
 
 ## Repository Sections
-### [Company Information](./docs/information/)
+### [Company Information](https://tellusant.github.io/docs/information/)
 
 Find the main descriptions of Tellusant and its products.
 
