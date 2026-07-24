@@ -18,5 +18,6 @@ Allow: /
 
 User-agent: *
 Disallow: /work-notes/mkt-1.html
+Disallow: /work-notes/mkt-1.md
 
 Sitemap: https://docs.tellusant.com/sitemap.xml
