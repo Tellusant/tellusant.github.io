@@ -17,6 +17,6 @@ User-agent: Bingbot
 Allow: /
 
 User-agent: *
-Disallow: /work-notes/
+Disallow: /work-notes/mkt-1.html
 
 Sitemap: https://docs.tellusant.com/sitemap.xml
