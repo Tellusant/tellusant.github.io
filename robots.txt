@@ -16,4 +16,7 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
+User-agent: *
+Disallow: /work-notes/
+
 Sitemap: https://docs.tellusant.com/sitemap.xml
