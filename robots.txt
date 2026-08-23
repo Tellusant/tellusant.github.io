@@ -21,3 +21,4 @@ Disallow: /work-notes/
 Disallow: /work-notes/
 
 Sitemap: https://docs.tellusant.com/sitemap.xml
+llmstxt: https://tellusant.com/llms.txt
