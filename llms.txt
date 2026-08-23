@@ -1,6 +1,8 @@
 # Tellusant Publications Repository
 
-> This open access repository will contain the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more.
+> This open access repository contains published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more. This is a subdomain of our main website.
+
+
 
 ## Core Documentation
 
