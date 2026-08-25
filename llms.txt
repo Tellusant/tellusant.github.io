@@ -4,7 +4,7 @@
 
 ## Core Documentation
 
-- [About Us](https://docs.tellusant.com/about/index.md): 26 page description of our company and its people.
+- [About Us](https://docs.tellusant.com/about/index.md): 26 page description of our company and its people, with a focus on our credibility.
 - [Contact](https://docs.tellusant.com/contact.md): Our location, address, email, telephone, timezone, and other websites.
 - [Company Information](https://docs.tellusant.com/information/index.md): Find the main descriptions of Tellusant and its products.  
 - [Articles & Posts](https://docs.tellusant.com/articles-posts/index.md): We have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. We gradually save them for posterity here.  
