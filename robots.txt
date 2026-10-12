@@ -17,5 +17,3 @@ User-agent: Bingbot
 Allow: /
 
 Sitemap: https://docs.tellusant.com/sitemap.xml
-
-llmstxt: https://docs.tellusant.com/llms.txt
